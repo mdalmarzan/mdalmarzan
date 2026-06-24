@@ -56,6 +56,10 @@
   <a href="https://x.com/md_al_marzan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
+  <a href="https://www.tiktok.com/@md.al.marzan" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+</a>
+
 </div>
 
 <!-- Snake Game Repo View -->
