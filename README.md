@@ -1,56 +1,91 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MD.%20Al%20Marzan&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&animation=fadeIn&veratrol=false&theme=cobalt&desc=Full%20Stack%20Developer&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 </div>
 
-###
-
-<h1 align="left">Hi I'm MD.Al Marzan 👋</h1>
-
-###
-
-<p align="left">I am Full Stack Developer</p>
-
-###
-
-<h2 align="left">👤About me</h2>
-
-###
-
-<p align="left">🔭 I’m currently working on BookMark App<br>🌱 I’m currently learning Nextjs<br>🤔 I’m looking for help with AI<br>💬 Ask me about Full Stack<br>📫 How to reach me: almarzanffxy@gamil.com</p>
-
-###
-
-<h2 align="left">⚒️ Skills & Technologies</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+<div align="center">
+  <p><em>🚀 Crafting robust web applications and exploring modern technologies.</em></p>
+  
+ 
 </div>
 
-###
+---
 
-<h2 align="left">🔗 Socials</h2>
+## 👤 About Me
 
-###
+* 🔭 **Currently working on:** BookMark App
+* 🌱 **Currently learning:** Next.js & Advanced AI Integration
+* 💬 **Ask me about:** Full-Stack Development (React, Node, Databases)
+* 📫 **How to reach me:** [almarzanffxy@gmail.com](mailto:almarzanffxy@gmail.com)
 
-<div align="left">
+---
+
+## ⚒️ Skills & Technologies
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br>
+        <sub><b>HTML5</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br>
+        <sub><b>CSS3</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>
+        <sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>
+        <sub><b>TypeScript</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>
+        <sub><b>React</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /><br>
+        <sub><b>Next.js</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="48" height="48" alt="MongoDB" /><br>
+        <sub><b>MongoDB</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>
+        <sub><b>Git</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br>
+        <sub><b>VS Code</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+ 
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalmarzan&theme=cobalt&hide_border=true" alt="GitHub Streak" />
+  </p>
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
   <a href="https://www.facebook.com/share/16TM4gnBSc/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
@@ -64,15 +99,13 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </div>
-<!-- Snake Game Repo View -->
+
+---
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=100&descAlignY=100&theme=cobalt"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" width="100%" />
 </div>
-
-###
