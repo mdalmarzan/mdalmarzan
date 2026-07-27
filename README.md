@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hi%20There,%20I'm%20Al%20Marzan%20👋&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&animation=fadeIn&theme=cobalt&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Node%20%C2%B7%20Next.js&descSize=18&descAlign=50&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hi%20There,%20I'm%20Al%20Marzan%20👋&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&animation=fadeIn&theme=cobalt" width="100%" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+Next.js;Building+the+BookMark+App+%F0%9F%94%96;Always+learning%2C+always+building" alt="Typing SVG" /></a>
+
+<br>
 
 <a href="https://www.facebook.com/share/16TM4gnBSc/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.instagram.com/md.almarzan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -8,12 +12,15 @@
 <a href="https://www.tiktok.com/@md.al.marzan" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="mailto:almarzanffxy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=mdalmarzan&style=for-the-badge&color=6366f1" />
-<img src="https://img.shields.io/github/followers/mdalmarzan?style=for-the-badge&color=6366f1&logo=github&label=Followers" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mdalmarzan&style=for-the-badge&color=818CF8" />
+<img src="https://img.shields.io/github/followers/mdalmarzan?style=for-the-badge&color=818CF8&logo=github&label=Followers" />
+<img src="https://img.shields.io/badge/📍-Bangladesh-818CF8?style=for-the-badge" />
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12&section=header" width="100%" />
 
 ## 👋 About Me
 
@@ -29,37 +36,31 @@ reach_me: almarzanffxy@gmail.com
 fun_fact: I turn coffee into code ☕ → 💻
 ```
 
-<br>
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" /></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12&section=header" width="100%" />
 
 ## ⚒️ Tech Stack
 
 <div align="center">
 
 **Languages & Markup**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" />
 
 **Frameworks & Libraries**
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" />
 
 **Database & Tools**
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode&theme=dark" />
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12&section=header" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -76,7 +77,7 @@ fun_fact: I turn coffee into code ☕ → 💻
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdalmarzan&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12&section=header" width="100%" />
 
 ## 🏆 Trophies
 
@@ -84,7 +85,7 @@ fun_fact: I turn coffee into code ☕ → 💻
   <img src="https://github-trophies.vercel.app/?username=mdalmarzan&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12&section=header" width="100%" />
 
 ## 🐍 Contribution Snake
 
@@ -92,7 +93,7 @@ fun_fact: I turn coffee into code ☕ → 💻
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12&section=header" width="100%" />
 
 ## 🔗 Let's Connect
 
@@ -100,7 +101,7 @@ fun_fact: I turn coffee into code ☕ → 💻
 
 Have an idea, a project, or just want to talk tech? My inbox is always open.
 
-<a href="mailto:almarzanffxy@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-almarzanffxy@gmail.com-6366f1?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+<a href="mailto:almarzanffxy@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-almarzanffxy@gmail.com-818CF8?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 
 </div>
 
