@@ -47,9 +47,6 @@
 >> 4 packets transmitted, 4 received, 0% loss — always reachable
 ```
 
-<div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" /></a>
-</div>
 
 <img src="https://capsule-render.vercel.app/api/?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
 
