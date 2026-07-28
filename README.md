@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api/?type=waving&height=250&section=header&text=Hi%20There,%20I'm%20Al%20Marzan%20👋&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&animation=fadeIn&theme=synthwave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hi%20There%2C%20I%27m%20Al%20Marzan%20%F0%9F%91%8B&fontSize=42&fontColor=00F5FF&fontAlign=50&fontAlignY=35&animation=fadeIn&color=0:0D0221,100:2D0B4E" width="100%" />
 
 <a href="https://github.com/DhanushNehru/ScribeSVG"><img src="https://scribesvg.vercel.app/api/render?lines=%3E+Full+Stack+Developer;%3E+React+%C2%B7+Node.js+%C2%B7+Next.js;%3E+Compiling+the+BookMark+App+%F0%9F%94%96;%3E+status%3A+always_shipping&font=Orbitron&size=20&color=00F5FF&center=true&vCenter=true&width=650&height=60" alt="Typing SVG" /></a>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/LOCATION-BANGLADESH-FF2E97?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d0221" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/LOCATION-BANGLADESH-FF2E97?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/BUILDING-BOOKMARK__APP-00F5FF?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0D0221" />
 
 <br><br>
 
@@ -20,58 +21,76 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=mdalmarzan&style=for-the-badge&color=FF2E97&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/mdalmarzan?style=for-the-badge&color=00F5FF&logo=github&label=FOLLOWERS&labelColor=0d0221" />
+<img src="https://img.shields.io/github/followers/mdalmarzan?style=for-the-badge&color=00F5FF&logo=github&label=FOLLOWERS&labelColor=0D0221" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api/?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
 
 ## 🛰️ `whoami`
 
 ```bash
 ┌──(al-marzan㉿dev-machine)-[~]
 └─$ whoami
->> MD. Al Marzan — Full Stack Developer
+>> MD. Al Marzan — Full Stack Developer, based in Bangladesh 🇧🇩
 
 └─$ cat mission.log
->> Building robust, scalable web applications
+>> Building robust, scalable web applications end-to-end
 >> Turning ☕ into 💻 since day one
 
 └─$ ps -ef | grep "currently_building"
->> BookMark App 🔖 ................ [RUNNING]
+>> BookMark App 🔖 ................................. [RUNNING]
 
 └─$ ps -ef | grep "currently_learning"
->> Next.js & Advanced AI Integration 🤖 .. [IN_PROGRESS]
+>> Next.js & Advanced AI Integration 🤖 ............. [IN_PROGRESS]
 
 └─$ ping almarzanffxy@gmail.com
 >> 4 packets transmitted, 4 received, 0% loss — always reachable
 ```
 
-
-<img src="https://capsule-render.vercel.app/api/?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
 
 ## 🧠 `tech_stack.sys`
 
 <div align="center">
 
 **Languages & Markup**
-<br>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" />
 
 **Frameworks & Libraries**
-<br>
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" />
 
 **Database & Tools**
-<br>
+
 <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode&theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api/?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
+
+## 🔖 `featured_project.run()`
+
+<div align="center">
+
+### BookMark App
+
+*A place to save, organize, and rediscover the links that matter — built end-to-end with the MERN stack.*
+
+<img src="https://img.shields.io/badge/React-00F5FF?style=flat-square&logo=react&logoColor=0D0221" />
+<img src="https://img.shields.io/badge/Node.js-FF2E97?style=flat-square&logo=node.js&logoColor=0D0221" />
+<img src="https://img.shields.io/badge/MongoDB-39FF14?style=flat-square&logo=mongodb&logoColor=0D0221" />
+<img src="https://img.shields.io/badge/Tailwind-00F5FF?style=flat-square&logo=tailwindcss&logoColor=0D0221" />
+
+<!-- Swap this line for your live repo link once BookMark App ships -->
+`🔗 repo: coming soon — link it here once it's live`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
 
 ## 📡 `live_stats.exe`
-
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=mdalmarzan&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdalmarzan&layout=compact&theme=synthwave&hide_border=true" height="165" />
@@ -82,23 +101,23 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdalmarzan&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdalmarzan&bg_color=0D0221&color=00F5FF&line=FF2E97&point=FFFFFF&hide_border=true&area=true&area_color=FF2E97" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api/?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
 
-## 🎖️ `achievements.log`
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=mdalmarzan&theme=radical&no-frame=true&row=1&column=7" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api/?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
-
-## 🧬 `contribution_matrix`
+## 🐍 `contribution_matrix`
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api/?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
+## 🎖️ `achievements.log`
+
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=mdalmarzan&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api/?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
@@ -109,8 +128,8 @@
 
 Got an idea, a project, or just want to talk shop? Transmission's always open.
 
-<a href="mailto:almarzanffxy@gmail.com"><img src="https://img.shields.io/badge/SAY__HELLO-almarzanffxy@gmail.com-00F5FF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0d0221" /></a>
+<a href="mailto:almarzanffxy@gmail.com"><img src="https://img.shields.io/badge/SAY__HELLO-almarzanffxy@gmail.com-00F5FF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D0221" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api/?type=waving&height=120&section=footer&theme=synthwave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2D0B4E,100:0D0221" width="100%" />
