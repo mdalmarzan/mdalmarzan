@@ -64,7 +64,7 @@
 
 **Database & Tools**
 
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,vercel,git,github,vscode&theme=dark" />
 
 </div>
 
