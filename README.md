@@ -91,7 +91,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
 
 ## 📡 `live_stats.exe`
-## 📡 `live_stats.exe`
+
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=mdalmarzan&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165" />
@@ -102,11 +102,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalmarzan&theme=synthwave&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdalmarzan&bg_color=0D0221&color=00F5FF&line=FF2E97&point=FFFFFF&hide_border=true&area=true&area_color=FF2E97" width="100%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
 
 ## 🐍 `contribution_matrix`
 
