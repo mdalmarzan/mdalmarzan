@@ -70,25 +70,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
 
-## 🔖 `featured_project.run()`
-
-<div align="center">
-
-### BookMark App
-
-*A place to save, organize, and rediscover the links that matter — built end-to-end with the MERN stack.*
-
-<img src="https://img.shields.io/badge/React-00F5FF?style=flat-square&logo=react&logoColor=0D0221" />
-<img src="https://img.shields.io/badge/Node.js-FF2E97?style=flat-square&logo=node.js&logoColor=0D0221" />
-<img src="https://img.shields.io/badge/MongoDB-39FF14?style=flat-square&logo=mongodb&logoColor=0D0221" />
-<img src="https://img.shields.io/badge/Tailwind-00F5FF?style=flat-square&logo=tailwindcss&logoColor=0D0221" />
-
-<!-- Swap this line for your live repo link once BookMark App ships -->
-`🔗 repo: coming soon — link it here once it's live`
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
 
 ## 📡 `live_stats.exe`
 
@@ -103,13 +84,8 @@
 </div>
 
 
-## 🐍 `contribution_matrix`
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
-</div>
 
-<img src="https://capsule-render.vercel.app/api/?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
 ## 🎖️ `achievements.log`
 
 
