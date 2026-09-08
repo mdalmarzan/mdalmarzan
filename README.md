@@ -1,5 +1,5 @@
 <div align="center">
-<img href="/img/A1R3N.jpg" src="/img/A1R3N.jpg"/>
+<img href="/img/gJPg5.jpg" src="/img/gJPg5.jpg"/>
 
 
 <a href="https://github.com/DhanushNehru/ScribeSVG"><img src="https://scribesvg.vercel.app/api/render?lines=%3E+Full+Stack+Developer;%3E+React+%C2%B7+Node.js+%C2%B7+Next.js;%3E+Compiling+the+BookMark+App+%F0%9F%94%96;%3E+status%3A+always_shipping&font=Orbitron&size=20&color=00F5FF&center=true&vCenter=true&width=650&height=60" alt="Typing SVG" /></a>
