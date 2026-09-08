@@ -27,26 +27,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
 
-## 🛰️ `whoami`
+## 👨‍💻 About Me
 
-```bash
-┌──(al-marzan㉿dev-machine)-[~]
-└─$ whoami
->> MD. Al Marzan — Full Stack Developer, based in Bangladesh 🇧🇩
+Hi, I'm **MD. Al Marzan**, a Full Stack Developer from Bangladesh 🇧🇩. I enjoy building modern web applications that are fast, useful, scalable, and simple to use. I work across both frontend and backend development, turning ideas into complete products rather than focusing on only one part of the stack.
 
-└─$ cat mission.log
->> Building robust, scalable web applications end-to-end
->> Turning ☕ into 💻 since day one
+I'm currently building my **Ai Projects** while improving my skills in **Next.js and Advanced AI Integration**. I love learning new technologies by actually using them in projects, solving problems, breaking things, and figuring out how to build them better.
 
-└─$ ps -ef | grep "currently_building"
->> BookMark App 🔖 ................................. [RUNNING]
+My long-term goal is to become a **high-level software engineer and product builder**, creating powerful applications that combine great user experiences, solid engineering, and AI. I want to keep learning, build bigger and more challenging projects, contribute to the developer community, and eventually create products of my own.
 
-└─$ ps -ef | grep "currently_learning"
->> Next.js & Advanced AI Integration 🤖 ............. [IN_PROGRESS]
-
-└─$ ping almarzanffxy@gmail.com
->> 4 packets transmitted, 4 received, 0% loss — always reachable
-```
+**Currently:** Building → Learning → Experimenting → Improving 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
 
