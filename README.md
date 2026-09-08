@@ -1,6 +1,6 @@
 <div align="center">
 <img href="/img/A1R3N.jpg" src="/img/A1R3N.jpg"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hi%20There%2C%20I%27m%20Al%20Marzan%20%F0%9F%91%8B&fontSize=42&fontColor=00F5FF&fontAlign=50&fontAlignY=35&animation=fadeIn&color=0:0D0221,100:2D0B4E" width="100%" />
+
 
 <a href="https://github.com/DhanushNehru/ScribeSVG"><img src="https://scribesvg.vercel.app/api/render?lines=%3E+Full+Stack+Developer;%3E+React+%C2%B7+Node.js+%C2%B7+Next.js;%3E+Compiling+the+BookMark+App+%F0%9F%94%96;%3E+status%3A+always_shipping&font=Orbitron&size=20&color=00F5FF&center=true&vCenter=true&width=650&height=60" alt="Typing SVG" /></a>
 
