@@ -1,97 +1,169 @@
 <div align="center">
-<img href="/img/Gemini_Generated_Image_knjkepknjkepknjk.jpg" src="/img/Gemini_Generated_Image_knjkepknjkepknjk.jpg"/>
 
+# Hi, I'm Al Marzan 👋
 
-<a href="https://github.com/DhanushNehru/ScribeSVG"><img src="https://scribesvg.vercel.app/api/render?lines=%3E+Full+Stack+Developer;%3E+React+%C2%B7+Node.js+%C2%B7+Next.js;%3E+Compiling+the+BookMark+App+%F0%9F%94%96;%3E+status%3A+always_shipping&font=Orbitron&size=20&color=00F5FF&center=true&vCenter=true&width=650&height=60" alt="Typing SVG" /></a>
+### Full Stack Developer building for the web — and learning to build with AI.
 
-<br>
+I build modern, full-stack applications with **React, Next.js, Node.js, and TypeScript**.
+Currently, I'm expanding my skills into **Artificial Intelligence and AI-powered applications**.
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/LOCATION-BANGLADESH-FF2E97?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/BUILDING-BOOKMARK__APP-00F5FF?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0D0221" />
+<br />
 
-<br><br>
-
-<a href="https://www.facebook.com/share/16TM4gnBSc/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/md.almarzan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://x.com/md_al_marzan" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.tiktok.com/@md.al.marzan" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-<a href="mailto:almarzanffxy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=mdalmarzan&style=for-the-badge&color=FF2E97&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/mdalmarzan?style=for-the-badge&color=00F5FF&logo=github&label=FOLLOWERS&labelColor=0D0221" />
+<a href="https://almarzan-com.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:almarzanffxy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://x.com/md_al_marzan">
+  <img src="https://img.shields.io/badge/X-Follow-111111?style=flat-square&logo=x&logoColor=white" />
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
+---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-Hi, I'm **MD. Al Marzan**, a Full Stack Developer from Bangladesh 🇧🇩. I enjoy building modern web applications that are fast, useful, scalable, and simple to use. I work across both frontend and backend development, turning ideas into complete products rather than focusing on only one part of the stack.
+I'm **Al Marzan**, a Full Stack Developer from Bangladesh 🇧🇩.
 
-I'm currently building my **Ai Projects** while improving my skills in **Next.js and Advanced AI Integration**. I love learning new technologies by actually using them in projects, solving problems, breaking things, and figuring out how to build them better.
+I enjoy taking an idea and turning it into a working product — from designing the interface and writing frontend logic to building APIs, connecting databases, and deploying the application.
 
-My long-term goal is to become a **high-level software engineer and product builder**, creating powerful applications that combine great user experiences, solid engineering, and AI. I want to keep learning, build bigger and more challenging projects, contribute to the developer community, and eventually create products of my own.
+I'm especially interested in understanding **how things work behind the scenes**, not just making them work.
 
-**Currently:** Building → Learning → Experimenting → Improving 🚀
+My current journey is moving from:
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
+**Web Development → Full Stack Engineering → AI Engineering**
 
-## 🧠 `tech_stack.sys`
+I'm learning by building real projects, experimenting with new technologies, and continuously improving my understanding of software development.
+
+---
+
+## 🚀 What I'm Doing
+
+### Building
+
+I'm currently working on personal projects where I can practice full-stack development, experiment with new ideas, and improve my engineering skills.
+
+One of my current projects is **BookMark App 🔖**.
+
+I'm also starting to build and experiment with **AI-powered projects** as I learn more about the field.
+
+### Learning
+
+My current learning focus is:
+
+* **Next.js** and modern full-stack architecture
+* **TypeScript** and better application design
+* Backend development and databases
+* **AI integration**
+* LLM-based applications
+* AI tools, APIs, and automation
+* Software engineering fundamentals
+
+---
+
+## 🧠 Where I'm Going
+
+I'm working toward becoming a **Software Engineer focused on AI and product development**.
+
+I don't want AI to be something I simply use through an API. I want to understand the technology behind it and learn how to build useful systems around it.
+
+Over time, I want to work on:
+
+* 🤖 AI-powered applications
+* 🧠 LLM-based products
+* 🔗 AI + Web applications
+* ⚙️ Automation and intelligent tools
+* 🏗️ Scalable software systems
+* 🚀 Products that solve real problems
+
+The goal isn't to learn every technology.
+
+**The goal is to understand the fundamentals, build useful things, and keep getting better.**
+
+---
+
+## 🛠️ Technologies I Use
 
 <div align="center">
 
-**Languages & Markup**
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
-**Frameworks & Libraries**
+### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,python" />
 
-**Database & Tools**
+### Tools & Platform
 
-<img src="https://skillicons.dev/icons?i=mongodb,vercel,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
+---
 
+## 📌 What You'll Find Here
 
-## 📡 `live_stats.exe`
+Most of the work on my GitHub comes from things I'm **actually learning or building**.
 
+You'll find:
+
+* Full-stack web applications
+* React & Next.js projects
+* Backend experiments
+* Database projects
+* AI experiments
+* Learning projects
+* Developer notes and resources
+
+Some projects are polished.
+
+Some are experiments.
+
+Some exist because I wanted to understand how something works.
+
+That's part of the journey.
+
+---
+
+## 📈 My Approach
+
+I learn development by **building things**.
+
+Instead of trying to memorize every tool or framework, I prefer to:
+
+**Learn → Build → Break → Debug → Understand → Improve**
+
+Every project gives me something new to learn, and every mistake gives me something new to understand.
+
+---
+
+## 🌐 Connect
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mdalmarzan&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdalmarzan&layout=compact&theme=synthwave&hide_border=true" height="165" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalmarzan&theme=synthwave&hide_border=true" />
-</div>
+<a href="https://www.instagram.com/md.almarzan">
+<img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://x.com/md_al_marzan">
+<img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.tiktok.com/@md.al.marzan">
+<img src="https://img.shields.io/badge/TikTok-111111?style=flat-square&logo=tiktok&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:almarzanffxy@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
+<br /><br />
 
-
-
-## 🎖️ `achievements.log`
-
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=mdalmarzan&theme=radical&no-frame=true&row=1&column=7" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api/?type=rect&height=3&color=0:00F5FF,100:FF2E97" width="100%" />
-
-## 📶 `connect.init()`
-
-<div align="center">
-
-Got an idea, a project, or just want to talk shop? Transmission's always open.
-
-<a href="mailto:almarzanffxy@gmail.com"><img src="https://img.shields.io/badge/SAY__HELLO-almarzanffxy@gmail.com-00F5FF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D0221" /></a>
+### Building with the web. Learning AI. Creating what's next. 🚀
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2D0B4E,100:0D0221" width="100%" />
